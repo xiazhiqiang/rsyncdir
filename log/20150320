@@ -1,0 +1,2 @@
+pull templates: user02@slave.hostname.com:/home/user02/work/www/project -> /home/user01/work/www/project :success 20150320000001
+push templates: /home/user01/work/www/project -> user02@slave.hostname.com:/home/user02/work/www/project :success 20150320000001
